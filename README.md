@@ -5,7 +5,7 @@ With this lesson, we begin our journey into algorithms.
 ![alt minion-applause](http://w-uh.com/images/1601/minions_applause.jpg)
 > Pause for applause and smiles.  
 
-So what is an algorithm?  The word algorithm is just a fancy word for procedure.  Don't believe me?  Let's see what the great oracle Wikipedia tells us.
+So what is an algorithm?  The word algorithm is just a fancy word for procedure.  Skeptical that it's that simple?  Let's see what the great oracle Wikipedia tells us.
 
 
 ![alt algorithm](./algorithm.jpg)
