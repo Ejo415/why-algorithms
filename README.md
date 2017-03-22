@@ -5,7 +5,12 @@ With this lesson, we begin our journey into algorithms.
 ![alt minion-applause](http://w-uh.com/images/1601/minions_applause.jpg)
 > Pause for applause and smiles.  
 
-First off, the word algorithm is just a fancy word for procedure.  Yes, it's vague.  Yes, you have been coding procedures since you've started this course.  When we explore algorithms, we'll consider procedures that have been already been implemented in many languages.  For example, both Ruby and Javascript have a sort method, and a find method.  In our discussion, we'll learn how they work.
+First off, the word algorithm is just a fancy word for procedure.  Don't believe me?  Let's see what the great oracle Wikipedia tells us.
+
+
+![alt algorithm](./algorithm.jpg)
+
+Like we said, a procedure.  Yes, it's vague.  Yes, you have been coding procedures since you've started this course.  When we explore algorithms, we'll consider procedures that have been already been implemented in many languages.  For example, both Ruby and Javascript have a sort method, and a find method.  In our discussion, we'll learn how they work.
 
 ### Why learn algorithms
 
