@@ -2,13 +2,13 @@
 
 With this lesson, we begin our journey into algorithms.  
 
-![alt minion-applause](http://w-uh.com/images/1601/minions_applause.jpg)
+![alt minion-applause](	https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/minions_applause.jpg)
 > Pause for applause and smiles.  
 
 So what is an algorithm?  The word algorithm is just a fancy word for procedure.  Skeptical that it's that simple?  Let's see what the great oracle Wikipedia tells us.
 
 
-![alt algorithm](./algorithm.jpg)
+![alt algorithm](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/algorithm.jpg)
 
 Like we said, a procedure.  Yes, it's vague.  Yes, you have been coding procedures since you've started this course.  When we explore algorithms, we'll consider procedures that have been already been implemented in many languages.  For example, both Ruby and Javascript have a sort method, and a find method.  In our discussion, we'll learn how they work.
 
@@ -26,5 +26,5 @@ The danger of learning algorithms is that they often ask us to consider how long
 
 And with that disclaimer out of the way, let's make it fast.
 
-![alt speed](http://jaysamit.com/wp-content/uploads/2015/04/increase-website-speed.jpg)
+![alt speed](	https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/increase-website-speed.jpg)
 
