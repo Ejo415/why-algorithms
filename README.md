@@ -1,4 +1,4 @@
-## Algorithms, with a healthy dose of excitement
+## Algorithms, with a healthy dose of excitement!
 
 With this lesson, we begin our journey into algorithms.  
 
