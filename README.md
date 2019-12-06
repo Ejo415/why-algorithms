@@ -28,3 +28,5 @@ And with that disclaimer out of the way, let's make it fast.
 
 ![alt speed](	https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/increase-website-speed.jpg)
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/why-algorithms'>Why Algorithms</a> on Learn.co and start learning to code for free.</p>
